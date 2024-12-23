@@ -30,6 +30,7 @@
 
 - Python 3.8 or higher
 - A code editor or IDE (e.g., VSCode)
+- Gemini API Key
 
 ### 1. Clone the repository:
 
