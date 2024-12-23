@@ -1,2 +1,8 @@
-.env*
+# editor configuration files
 .vscode*
+
+# local env files
+.env*
+
+# virtual environment
+venv/
