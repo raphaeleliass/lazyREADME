@@ -85,7 +85,7 @@ def generate_header(project_data):
     gemini_response = genai_model.generate_content(
         f"I want you generate a describe in a few lines the project {project_data['project_name']}, the project is about {project_data['project_description']}"
     )
-    with open("README.md", "w", encoding="utf-8") as file:
+    with open("RESULT.md", "w", encoding="utf-8") as file:
         file.write(
             f"<div align='center'>\n\n # 🔨 {project_data['project_name']}\n\n ### About this project \n\n <p style='width:500px'>{gemini_response.text}</p>\n</div>\n\n<br/>\n<br/>\n<br/>\n"
         )
