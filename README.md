@@ -1,19 +1,23 @@
 <div align="center" style="margin-top: 7rem">
 
-# Project Name
+# lazyREADME
 
 <div style="margin-top: 1.5rem">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/your-username/your-repository?style=social)](https://github.com/your-username/your-repository/stargazers)
+[![Stars](https://img.shields.io/github/stars/raphaeleliass/lazyREADME?style=social)](https://github.com/raphaeleliass/lazyREADME/stargazers)
+
+<div>
+
+[![donate](https://img.shields.io/badge/donate-green.svg)](https://www.paypal.com/donate/?hosted_button_id=BN8BDRQWPXKK6)
+
+</div>
 
 </div>
 
 <em align="center" style="width:80%; margin:0 auto; font-size:1.2em; color:#666">
-Describe your project here. What does it do? Why is it useful?
+An intuitive CLI tool to automatically generate professional READMEs for your projects.
 </em>
-
-
 
 </div>
 
@@ -21,7 +25,6 @@ Describe your project here. What does it do? Why is it useful?
 <br>
 <br>
 <br>
-
 
 # **🔧 Prerequisites and Installation**
 
@@ -29,34 +32,22 @@ Describe your project here. What does it do? Why is it useful?
 
 ### 📋 Prerequisites
 
-- Item 1
-- Item 2
+- Python 3.8 or higher
+- pip (Python package manager)
 
 <br>
 
 ### ⚡ Installation
 
-#### 1. Clone the repository:
+Install the package directly via pip:
 
 ```bash
-git clone your-repository
-```
-
-#### 2. Navigate to directory:
-
-```bash
-cd your-project
-```
-
-#### 3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
+pip install lazyreadme
 ```
 
 <br>
 
-> 🎉 **Congratulations!** You're all set.
+> 🎉 **Done!** You're ready to use lazyREADME.
 
 <br>
 
@@ -66,29 +57,31 @@ pip install -r requirements.txt
 <br>
 <br>
 <br>
-
 
 # **📚 Usage and Examples**
 
 <br>
 
-### 💡 Running the Project
+### 💡 How to Use
 
-Run the script to start:
+Navigate to your project directory and run the command:
 
 ```bash
-python app.py
+lazyREADME
 ```
+
+The assistant will guide you through the README creation process.
 
 <br>
 
 ### ✨ Examples
 
-Add usage examples here:
+lazyREADME will:
 
-```bash
-python app.py --config config.json
-```
+- Automatically detect your project information
+- Generate a professional and well-structured README
+- Allow customization through an interactive assistant
+- Include important sections like installation, usage, contribution, and license
 
 <br>
 
@@ -98,7 +91,6 @@ python app.py --config config.json
 <br>
 <br>
 <br>
-
 
 # **📖 Documentation**
 
@@ -106,25 +98,14 @@ python app.py --config config.json
 
 ### 🌟 Key Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-
-<br>
-
-### 📚 External Documentation
-
-> [**🔧 Official Documentation**](documentation-link)
-
-<br>
-
----
+- Automatic generation of professional READMEs
+- User-friendly CLI interface
+- Easy content customization
 
 <br>
 <br>
 <br>
 <br>
-
 
 # **🤝 How to Contribute**
 
@@ -173,8 +154,7 @@ python app.py --config config.json
 <br>
 <br>
 
-
-# **⚖️  License**
+# **⚖️ License**
 
 <br>
 
@@ -189,22 +169,22 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <br>
 <br>
 
-
 # **🌟 Credits**
 
 <br>
 
 ### 👥 Authors
 
-- 👤 [Your Name]
+- [Raphael Elias](https://raphaelelias.tech/links)
 
 <br>
 
 ### 🛠️ Technologies
 
-- 🌐 Libraries or frameworks used:
-  - Item 1
-  - Item 2
+- 🐍 Python 3.8+
+- 📦 Main libraries:
+  - questionary - For interactive CLI interface
+  - colorama - For colored terminal output
 
 <br>
 
@@ -214,7 +194,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <br>
 <br>
 <br>
-
 
 # **📫 Contact**
 
@@ -222,9 +201,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### 📧 For questions or support, reach out via:
 
-- 📨 Email: your.email@example.com
+- 📨 Email: raphaeleliass@outlook.com
 
-- 📊 GitHub Issues: [Issues Page](issues-link)
+- 📊 GitHub Issues: [Issues Page](https://github.com/raphaeleliass/lazyREADME/issues)
 
 <br>
 
@@ -235,3 +214,33 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <br>
 <br>
 
+# **💝 Donations**
+
+<br>
+
+### 🤞🏻 Support the Project
+
+If you like this project and want to contribute to its continuous development, consider making a donation:
+
+#### 🇧🇷 PIX (Brazilian Payment Method)
+
+- PIX Key: <br> <image style="width:50%" src="./images/qr-code.png"/>
+- Name: Raphael Elias
+- Bank: Nu Payments
+
+#### 💳 PayPal
+
+- PayPal Link: [Donate](https://www.paypal.com/donate/?hosted_button_id=BN8BDRQWPXKK6)
+
+<br>
+
+> 💖 Your contribution helps keep this project alive and constantly evolving!
+
+<br>
+
+---
+
+<br>
+<br>
+<br>
+<br>
