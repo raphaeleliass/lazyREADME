@@ -12,16 +12,15 @@ profile = "black"
 multi_line_output = 3
 
 [tool.setuptools]
-packages = ["lazyreadme"]
 package-dir = { "" = "src" }
-
+packages = ["lazyreadme", "lazyreadme.cli", "lazyreadme.utils", "lazyreadme.templates"]
 
 [project.scripts]
 lazyreadme = "lazyreadme.cli.interface:main"
 
 [project]
 name = "lazyreadme"
-version = "1.0.4"
+version = "1.0.5"
 description = "Generate README.md files automatically"
 readme = "README.md"
 authors = [

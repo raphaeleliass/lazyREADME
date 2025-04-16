@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+recursive-include src/lazyreadme *.py
+recursive-include src/lazyreadme/templates *
+global-exclude __pycache__
+global-exclude *.py[cod]
