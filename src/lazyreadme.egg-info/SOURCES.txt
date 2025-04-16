@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/lazyreadme/__init__.py
+src/lazyreadme/__main__.py
+src/lazyreadme.egg-info/PKG-INFO
+src/lazyreadme.egg-info/SOURCES.txt
+src/lazyreadme.egg-info/dependency_links.txt
+src/lazyreadme.egg-info/entry_points.txt
+src/lazyreadme.egg-info/requires.txt
+src/lazyreadme.egg-info/top_level.txt

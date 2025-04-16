@@ -1,0 +1,2 @@
+[console_scripts]
+lazyreadme = lazyreadme.cli.interface:main
