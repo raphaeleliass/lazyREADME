@@ -4,10 +4,10 @@ from setuptools import setup, find_packages
 
 setup(
     name="lazyreadme",
-    version="1.0.1",
+    version="1.0.2",
     description="Gerador automático de README para seus projetos",
-    author="Seu Nome",
-    author_email="seu.email@exemplo.com",
+    author="Raphael Elias",
+    author_email="raphaeleliass@outlook.com",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     install_requires=[
