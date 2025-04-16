@@ -21,7 +21,7 @@ lazyreadme = "lazyreadme.cli.interface:main"
 
 [project]
 name = "lazyreadme"
-version = "1.0.1"
+version = "1.0.3"
 description = "Generate README.md files automatically"
 readme = "README.md"
 authors = [
