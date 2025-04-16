@@ -1,14 +1,14 @@
 """Configuração do pacote lazyREADME."""
 
-from setuptools import setup, find_packages
+from setuptools import setup, find_namespace_packages
 
 setup(
     name="lazyreadme",
-    version="1.0.3",
+    version="1.0.4",
     description="Gerador automático de README para seus projetos",
     author="Raphael Elias",
     author_email="raphaeleliass@outlook.com",
-    packages=find_packages(where="src"),
+    packages=find_namespace_packages(where="src", include=["lazyreadme*"]),
     package_dir={"": "src"},
     install_requires=[
         "questionary>=2.0.1",
