@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="lazyreadme",
-    version="1.0.0",
+    version="1.0.1",
     description="Gerador automático de README para seus projetos",
     author="Seu Nome",
     author_email="seu.email@exemplo.com",
