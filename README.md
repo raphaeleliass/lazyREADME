@@ -1,11 +1,13 @@
-<div align="center" style="margin-top: 7rem">
-
-# lazyREADME
+<div align="center">
 
 <div style="margin-top: 1.5rem">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/raphaeleliass/lazyREADME?style=social)](https://github.com/raphaeleliass/lazyREADME/stargazers)
+
+</div>
+
+# lazyREADME
 
 <div>
 
@@ -13,105 +15,59 @@
 
 </div>
 
-</div>
-
-<em align="center" style="width:80%; margin:0 auto; font-size:1.2em; color:#666">
+<em style="display: block; margin: 1rem auto; max-width: 600px; color: #666">
 An intuitive CLI tool to automatically generate professional READMEs for your projects.
 </em>
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
+---
 
-# **🔧 Prerequisites and Installation**
-
-<br>
-
-### 📋 Prerequisites
+<p style="font-size: 1.6rem; margin-top: 4rem">🔧 Prerequisites</p>
 
 - Python 3.8 or higher
 - pip (Python package manager)
 
-<br>
-
-### ⚡ Installation
-
-Install the package directly via pip:
+<p style="font-size: 1.6rem; margin-top: 4rem">⚙️ Installation</p>
 
 ```bash
+# Install the package
 pip install lazyreadme
 ```
 
-<br>
-
-> 🎉 **Done!** You're ready to use lazyREADME.
-
-<br>
+> 🎉 **Ready to start!**
 
 ---
 
-<br>
-<br>
-<br>
-<br>
+<p style="font-size: 1.6rem; margin-top: 4rem">💡 Running the Project</p>
 
-# **📚 Usage and Examples**
-
-<br>
-
-### 💡 How to Use
-
-Navigate to your project directory and run the command:
+_Navigate to your folder and run:_
 
 ```bash
-lazyREADME
+lazyreadme
 ```
 
-The assistant will guide you through the README creation process.
+<p style="font-size: 1.6rem; margin-top: 4rem">✨ Usage Examples</p>
 
-<br>
+```bash
+# Navigate to your folder
+cd my-project
 
-### ✨ Examples
-
-lazyREADME will:
-
-- Automatically detect your project information
-- Generate a professional and well-structured README
-- Allow customization through an interactive assistant
-- Include important sections like installation, usage, contribution, and license
-
-<br>
+# Run lazyreadme
+lazyreadme
+```
 
 ---
 
-<br>
-<br>
-<br>
-<br>
-
-# **📖 Documentation**
-
-<br>
-
-### 🌟 Key Features
+<p style="font-size: 1.6rem; margin-top: 4rem">🌟 Key Features</p>
 
 - Automatic generation of professional READMEs
 - User-friendly CLI interface
 - Easy content customization
 
-<br>
-<br>
-<br>
-<br>
+---
 
-# **🤝 How to Contribute**
-
-<br>
-
-### 📝 Contribution Process
+<p style="font-size: 1.6rem; margin-top: 4rem">🔄 Contribution Process</p>
 
 1. Fork the repository
 
@@ -137,88 +93,36 @@ lazyREADME will:
 
 <br>
 
-### 📋 **Commit Guidelines**
+<p style="font-size: 1.6rem; margin-top: 4rem">📋 Commit Guidelines</p>
 
-> Follow semantic commit messages:
-
-- **feat:** New feature
-- **fix:** Bug fix
-- **docs:** Documentation changes
-
-<br>
+- `feat`: New feature
+- `fix`: Bug fix
+- `docs`: Documentation changes
 
 ---
 
-<br>
-<br>
-<br>
-<br>
-
-# **⚖️ License**
-
-<br>
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-<br>
-
----
-
-<br>
-<br>
-<br>
-<br>
-
-# **🌟 Credits**
-
-<br>
-
-### 👥 Authors
+<p style="font-size: 1.6rem; margin-top: 4rem">👥 Authors</p>
 
 - [Raphael Elias](https://raphaelelias.tech/links)
 
-<br>
-
-### 🛠️ Technologies
+<p style="font-size: 1.6rem; margin-top: 4rem">🛠️ Technologies Used</p>
 
 - 🐍 Python 3.8+
 - 📦 Main libraries:
   - questionary - For interactive CLI interface
   - colorama - For colored terminal output
 
-<br>
-
 ---
 
-<br>
-<br>
-<br>
-<br>
-
-# **📫 Contact**
-
-<br>
-
-### 📧 For questions or support, reach out via:
+<p style="font-size: 1.6rem; margin-top: 4rem">📬 For questions or support</p>
 
 - 📨 Email: raphaeleliass@outlook.com
 
 - 📊 GitHub Issues: [Issues Page](https://github.com/raphaeleliass/lazyREADME/issues)
 
-<br>
-
 ---
 
-<br>
-<br>
-<br>
-<br>
-
-# **💝 Donations**
-
-<br>
-
-### 🤞🏻 Support the Project
+<p style="font-size: 1.6rem; margin-top: 4rem">🤞🏻 Support the Project</p>
 
 If you like this project and want to contribute to its continuous development, consider making a donation:
 
@@ -240,7 +144,6 @@ If you like this project and want to contribute to its continuous development, c
 
 ---
 
-<br>
-<br>
-<br>
-<br>
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
