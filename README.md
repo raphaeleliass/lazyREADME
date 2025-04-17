@@ -122,28 +122,6 @@ lazyreadme
 
 ---
 
-<p style="font-size: 1.6rem; margin-top: 4rem">🤞🏻 Support the Project</p>
-
-If you like this project and want to contribute to its continuous development, consider making a donation:
-
-#### 🇧🇷 PIX (Brazilian Payment Method)
-
-- PIX Key: <br> <image style="width:50%" src="./images/qr-code.png"/>
-- Name: Raphael Elias
-- Bank: Nu Payments
-
-#### 💳 PayPal
-
-- PayPal Link: [Donate](https://www.paypal.com/donate/?hosted_button_id=BN8BDRQWPXKK6)
-
-<br>
-
-> 💖 Your contribution helps keep this project alive and constantly evolving!
-
-<br>
-
----
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
