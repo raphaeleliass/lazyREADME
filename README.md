@@ -5,10 +5,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/raphaeleliass/lazyREADME?style=social)](https://github.com/raphaeleliass/lazyREADME/stargazers)
 
-<div align="center" style="width: 12rem; height:12rem; margin-bottom:1rem; border-radius: 50%; position:relative; overflow: hidden; background-color:white">
-<img src="./images/lazyreadme-logo.png" alt="logo lazyREADME" style="object-position:center; object-fit:cover; position:absolute; inset:0; scale: .8"/>
+<br>
+<div align="center">
+<img src="images/lazyreadme-logo.png"/>
 </div>
-
+<br>
 </div>
 
 # lazyREADME
